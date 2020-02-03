@@ -4,6 +4,7 @@
 
 [alias]
 	st = status --short
+	l = log --oneline --abbrev-commit
 
 [push]
 
