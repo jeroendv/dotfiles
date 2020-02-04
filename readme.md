@@ -3,8 +3,8 @@
 fetch script then source it to bootstrap dotfile management
 
 ```sh 
-$ wget https://raw.githubusercontent.com/jeroendv/dotfiles/master/.bootstrapDotFiles.sh 
-$ . bootstrapDotFiles.sh
+wget https://raw.githubusercontent.com/jeroendv/dotfiles/master/.bootstrapDotFiles.sh 
+. bootstrapDotFiles.sh
 ```
 
 # manual installation
