@@ -2,3 +2,4 @@
 
 # alias to manage my dotfiles
 alias config='/usr/bin/git --git-dir=/home/JDVlieger/.jdvdotfiles/ --work-tree=/home/JDVlieger'
+alias dtf='/usr/bin/git --git-dir=~/.dotfiles/ --work-tree=~'
